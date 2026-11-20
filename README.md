@@ -1,0 +1,2 @@
+# camloops
+git commands initializing 
